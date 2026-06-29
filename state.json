@@ -4,7 +4,7 @@
       "last_seen_sha": "3fa4a5d2bed667a11cf00843712dc72a29ec9fcf"
     },
     "openai/codex": {
-      "last_seen_sha": "rust-v0.142.3"
+      "last_seen_sha": "rust-v0.142.4"
     }
   }
 }
